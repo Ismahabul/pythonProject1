@@ -11,9 +11,8 @@
 
 - Install PyCharm Community (FREE)
 - Create a New Project 
-- Delete main.py
 - Download Files
-- Import face_mesh_app.py and demo videos into project.
+- Import main.py and demo videos into project.
 
 ## Step 2 - Dependencies
 Install Dependencies:
