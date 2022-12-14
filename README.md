@@ -10,7 +10,7 @@
 ## Step 1 - Installation
 
 - Install PyCharm Community (FREE)
-- Create a New Project - Call it Face-Landmark-Detection
+- Create a New Project 
 - Delete main.py
 - Download Files
 - Import face_mesh_app.py and demo videos into project.
